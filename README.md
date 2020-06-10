@@ -1,1 +1,1 @@
-# Prorotype
+[![Build status](https://ci.appveyor.com/api/projects/status/kf4e6rvld5flhu7x?svg=true)](https://ci.appveyor.com/project/zvasileva/prorotype)
